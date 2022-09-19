@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 98
-print("Float:",number)
+print(f"Float: {number}")
